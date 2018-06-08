@@ -6,7 +6,7 @@ namespace Patterns.Ex05.SubEx_01
 {
 
     /// <summary>
-    /// Νΰαλώδΰςελό
+    /// ΠΠ°Π±Π»ΡΠ΄Π°Ρ‚ΠµΠ»Ρ
     /// </summary>
     public class DatabaseSaverWithSubscribers : IDatabaseSaver
     {
