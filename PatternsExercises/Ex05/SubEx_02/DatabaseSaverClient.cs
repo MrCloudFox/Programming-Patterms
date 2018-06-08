@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace Patterns.Ex05.SubEx_02
 {
     /// <summary>
-    /// Наблюдатель (первое решение)
+    /// РќР°Р±Р»СЋРґР°С‚РµР»СЊ (РїРµСЂРІРѕРµ СЂРµС€РµРЅРёРµ)
     /// </summary>
     //public interface ISubscriber
     //{
@@ -53,7 +53,7 @@ namespace Patterns.Ex05.SubEx_02
 
 
     /// <summary>
-    /// Декоратор (второе решение)
+    /// Р”РµРєРѕСЂР°С‚РѕСЂ (РІС‚РѕСЂРѕРµ СЂРµС€РµРЅРёРµ)
     /// </summary>
     public class MyDecorator : IDatabaseSaver
     {
