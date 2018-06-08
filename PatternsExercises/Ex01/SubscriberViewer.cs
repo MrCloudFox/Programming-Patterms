@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Patterns.Ex01
 {
-    //Стратегия
+    //РЎС‚СЂР°С‚РµРіРёСЏ
     public interface SocNetwokStrategy
     {
         SocialNetworkUser[] GetSubscribers(); 
